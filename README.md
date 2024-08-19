@@ -1,2 +1,2 @@
 # VietnamDENV
-This repository is created to include the files related to the dissertation titled "Modelling the Effect of Serum Antibody on Dengue Infection in Vietnam Using Test-negative Design".
+This repository is created to include the code and files related to the dissertation titled "Modelling the Effect of Serum Antibody on Dengue Infection in Vietnam Using Test-negative Design". It describes a multinomial regression model estimating the impacts of pre-existing antibody levels on subsequent infections and a compartmental model dynamically integrating these impacts to predict the future dengue dynamics in Vietnam for prioritising limited resources.
